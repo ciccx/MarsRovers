@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.exe
+C:\Users\Admin\source\repos\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.deps.json
+C:\Users\Admin\source\repos\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.runtimeconfig.json
+C:\Users\Admin\source\repos\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.dll
+C:\Users\Admin\source\repos\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.pdb
+C:\Users\Admin\source\repos\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.dll
+C:\Users\Admin\source\repos\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.pdb
+C:\Users\Admin\source\repos\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.genruntimeconfig.cache
